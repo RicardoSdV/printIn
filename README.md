@@ -1,2 +1,2 @@
 # printIn
-A project to inject print statements into python code to debug
+Print Inject: A project to inject print statements into python code to debug
